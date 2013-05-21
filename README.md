@@ -1,4 +1,5 @@
 ##jQuery BlockUI - Meteor Smart Package
+[![endorse](https://api.coderwall.com/benjaminrh/endorsecount.png)](https://coderwall.com/benjaminrh)
 
 [jQuery BlockUI](http://jquery.malsup.com/block/) packaged for Meteor.
 
