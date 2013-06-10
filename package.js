@@ -4,7 +4,5 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.use('jquery', 'client');
-	api.add_files([
-		'lib/blockui/jquery.blockUI.js'
-		], 'client');
+	api.add_files('jquery.blockUI.js', 'client');
 });
